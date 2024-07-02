@@ -53,5 +53,5 @@ python GPNET.py -o result.csv -t False
 ```
 **-o** is the specified results saved file.
 **-t** is the specified output format, which defaults to True, exporting the predicted labels. 
-If you want to know the predicted binding possibility(score) of compound, you can specify it to False.
+If you want to know the predicted binding possibility (score) of compound, you can specify it to False.
 
