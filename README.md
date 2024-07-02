@@ -1,7 +1,12 @@
 # GPNET
 
-Abstract:
+### Abstract
+
 Environmental estrogens (EEs), as typical endocrine-disrupting chemicals (EDCs), can bind to classic estrogen nuclear receptors (ERs) to induce genomic effects, as well as to G protein-coupled estrogen receptor (GPER) located on the cytoplasmic membrane, thereby inducing downstream non-genomic effects rapidly. However, due to the relatively scarce ligand data, receptor-based or ligand-based screening model is challenging. Inspired by functional similarity between GPER and ER, this study takes GPER as an example and constructs a deep transfer learning model named GPNET to predict potential GPER binding ligands by using molecular surface three-dimensional (3D) electrostatic potential point clouds as input. The model retains a part of molecular structural knowledge learned from the ER ligands and then trains the remaining parameters of the model using the GPER ligands, ultimately obtaining GPNET model, which effectively predicts the binding activity of compounds with GPER.
+
+### The Architecture of GPNET
+
+![image](https://github.com/yaotingji/GPNET/assets/154850794/2bb74e1d-a148-476b-80af-83e5019762e1)
 
 # Setup and dependencies
 
