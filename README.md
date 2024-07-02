@@ -43,7 +43,7 @@ python data_npz.py
 ## 2. How to train the models. 
 Instance the model object and do training.
 ```
-python GPNET-trainer.py 
+python GPNET_trainer.py 
 ```
 Loss, AUC-ROC on training set and validation set will be saved as txt files and network parameters after each training epoch will be saved.
 
