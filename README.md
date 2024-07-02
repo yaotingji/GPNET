@@ -6,7 +6,7 @@ Environmental estrogens (EEs), as typical endocrine-disrupting chemicals (EDCs),
 
 ### The Architecture of GPNET
 
-![image](https://github.com/yaotingji/GPNET/assets/154850794/2bb74e1d-a148-476b-80af-83e5019762e1)
+
 
 # Setup and dependencies
 
